@@ -46,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		362D502048A616433862EFAE /* Pods-demo.ad-hoc.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo.ad-hoc.xcconfig"; path = "Pods/Target Support Files/Pods-demo/Pods-demo.ad-hoc.xcconfig"; sourceTree = "<group>"; };
 		6F7B50E420B65BCB0015CF9E /* demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F7B50E720B65BCB0015CF9E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6F7B50E820B65BCB0015CF9E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -254,6 +255,7 @@
 			children = (
 				F7CE749B535CC8BC630A925D /* Pods-demo.debug.xcconfig */,
 				7AFF54264062DDA211A283B2 /* Pods-demo.release.xcconfig */,
+				362D502048A616433862EFAE /* Pods-demo.ad-hoc.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -780,7 +782,7 @@
 		};
 		6FB202D120DA20C0009D959F /* ad-hoc */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7AFF54264062DDA211A283B2 /* Pods-demo.release.xcconfig */;
+			baseConfigurationReference = 362D502048A616433862EFAE /* Pods-demo.ad-hoc.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

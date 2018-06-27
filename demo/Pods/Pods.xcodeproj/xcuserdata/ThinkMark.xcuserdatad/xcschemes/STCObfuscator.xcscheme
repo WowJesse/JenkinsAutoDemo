@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '6AC178D44D22AA01B17596174ED6C7C0'
+               BlueprintIdentifier = '29299E320ACAB0189D12F4C6F87ABB8B'
                BlueprintName = 'STCObfuscator'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libSTCObfuscator.a'>
