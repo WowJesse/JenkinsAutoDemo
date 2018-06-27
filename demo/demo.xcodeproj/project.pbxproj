@@ -838,7 +838,7 @@
 				6FB202D020DA20C0009D959F /* ad-hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		6F7B511020B65BCB0015CF9E /* Build configuration list for PBXNativeTarget "demo" */ = {
 			isa = XCConfigurationList;
@@ -848,7 +848,7 @@
 				6FB202D120DA20C0009D959F /* ad-hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		6F7B511320B65BCB0015CF9E /* Build configuration list for PBXNativeTarget "demoTests" */ = {
 			isa = XCConfigurationList;
@@ -858,7 +858,7 @@
 				6FB202D220DA20C0009D959F /* ad-hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		6F7B511620B65BCB0015CF9E /* Build configuration list for PBXNativeTarget "demoUITests" */ = {
 			isa = XCConfigurationList;
@@ -868,7 +868,7 @@
 				6FB202D320DA20C0009D959F /* ad-hoc */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
